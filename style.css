@@ -1,0 +1,40 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+button{
+  background-color: rgb(27, 79, 163);
+  size: 100cm;
+  height: 25px;
+  width: 100px;
+border-radius: 90px;
+text-size-adjust: 20px;
+}
+button:hover{
+  background-color: seagreen;
+  border-radius: 5px;
+}
+
+input{
+  background-color: cornflowerblue;
+  border-radius: 50px;
+  opacity: 1;
+  box-shadow: rgb(0, 0, 0);
+}
+
+input:hover{
+  background-color: seagreen;
+  opacity: 1.1;
+  border-radius: 5px;
+}
+
+h2{
+  text-decoration-color: chartreuse;
+}
+
+
+canvas {
+  display: block;
+  
+}
